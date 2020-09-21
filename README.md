@@ -16,3 +16,4 @@ All lines are terminated by \n (0x0A ASCII code).
 
 Output files must follow the same format.
 
+All instances admit a unique solution!
