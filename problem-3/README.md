@@ -22,7 +22,7 @@ Each of the following `N` lines contains two integers denoting a cell with clues
 ## Constraints
 
 * `S` between 6 and 35
-* at most 300 hints
+* at most 300 cells with clues
 
 
 ## Example
