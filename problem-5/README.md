@@ -1,5 +1,7 @@
 # Problem 5
 
+*The problem is named Shingoki, and can be played [here](https://www.puzzle-shingoki.com/).*
+
 Once again, your friend Enzo Ferrara is asking for your help to sketch a new speed circuit.
 
 You are given a square grid with some cells containing white or black circles;

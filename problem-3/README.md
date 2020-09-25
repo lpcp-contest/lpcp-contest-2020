@@ -1,5 +1,7 @@
 # Problem 3
 
+*The problem is named Tapa, and can be played [here](https://www.puzzle-tapa.com/).*
+
 Your friend Minos is asking for your help to build some nice labyrinth-like structures.
 
 Actually, you have to build a polyomino in a square grid, that is, make some cells of a grid black so that all blacks are connected orthogonally.

@@ -1,5 +1,7 @@
 # Problem 4
 
+*The problem is named Masyu, and can be played [here](https://www.puzzle-masyu.com/).*
+
 Your friend Enzo Ferrara is asking for your help to sketch a new speed circuit.
 
 You are given a square grid with some cells containing white or black circles.

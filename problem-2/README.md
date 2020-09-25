@@ -1,5 +1,7 @@
 # Problem 2
 
+*The problem is named Stitches, and can be played [here](https://www.puzzle-stitches.com/).*
+
 Your friend Giorgio Arcani is asking for your help to run his business.
 
 You are given a square grid divided into blocks, and with numeric clues on each row and column.
