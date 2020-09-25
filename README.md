@@ -28,4 +28,7 @@ All instances admit a unique solution!
 * Masyu
 * Shingoki
 
+## Winner
+
+Team **FiBo**, composed by *Muge Fidan* and *Aysu Bogatarkan*, Sabanci University, Faculty of Engineering and Natural Sciences, Istanbul, Turkey.
 
